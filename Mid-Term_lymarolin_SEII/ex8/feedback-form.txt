@@ -1,0 +1,19 @@
+<html>
+<head><title>Feed Back</title></head>
+<body>
+<form action="customer-feedback.jsp">
+comment: <input type="text" name="please input here"/>
+<p> please choose any service below that you would like to send feedback. your feedback will help us alot. Thansk you!
+</p>
+<br/><br/>
+<input type="click" name="service" value="Web hosting" />
+<input type="click" name="service" value="Domain transfer" />
+<input type="click" name="service" value="Domain selling" />
+<input type="click" name="service" value="SSL" />
+<input type="click" name="service" value="VPS" />
+<br/><br/>
+
+<input type="click" value="submit" />
+</form>
+</body>
+</html>
